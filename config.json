@@ -1,14 +1,8 @@
 {
   "base_url": "https://idmo.io",
   "site_title": "Idea Momentum",
-  "site_description": "Product Design & Development. Among Other Things.",
-  "site_keywords": [
-    "Product Design",
-    "Product Management",
-    "Marketing",
-    "Front End Development",
-    "User Experience"
-  ],
+  "site_description": "Product Design and Development. Among Other Things.",
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "@brianmaggi",
   "github_account": "idmo"
